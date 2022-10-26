@@ -1,0 +1,5 @@
+RET Terminal de Retiro Argentina 34.75 4 12 46
+COR Terminal de Cordoba Argentina 14 9 87 69
+MON Terminal de Montevideo Uruguay 20.34 4 26 12
+BRA Terminal de Brasilia Brasil 45.25 27 75 38
+CHE Terminal de Buenos Cuba 100 1 0 0
